@@ -6,3 +6,7 @@ Secondly we use the camera api to detect our real time face expression in file r
 <br>
 There is a requirements.txt file where all the libraries used in this project are mentioned.
 <br>
+
+
+
+dataset link :https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
